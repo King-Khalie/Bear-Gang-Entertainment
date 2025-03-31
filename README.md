@@ -1,2 +1,2 @@
 # Bear-Gang-Entertainment
-Repository of Bear Gang Entertainment webiste
+Repository of Bear Gang Entertainment webiste, too lit
